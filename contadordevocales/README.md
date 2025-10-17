@@ -43,4 +43,5 @@ La frase contiene 4 vocales.
 4. Compila el programa desde la terminal integrada:
    //bash 
    g++ contadordevocales.cpp -o contadordevocales
+   
 5.Ejecuta el programa: ./contadordevocales
