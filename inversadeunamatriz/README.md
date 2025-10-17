@@ -46,3 +46,15 @@ Si la matriz **no tiene inversa** (determinante nulo o filas linealmente dependi
    g++ inversadematriz.cpp -o inversadematriz.exe
 4. ejecuta el archivo:
 ./inversadematriz.exe
+
+### **Desde Git Bash o CMD:**
+
+Ubícate en la carpeta del proyecto:
+
+cd ruta/de/tu/carpeta
+
+
+Compila y ejecuta igual que arriba:
+
+g++ inversadematriz.cpp -o inversadematriz.exe
+./inversadematriz.exe
