@@ -57,4 +57,6 @@ cd ruta/de/tu/carpeta
 Compila y ejecuta igual que arriba:
 
 g++ inversadematriz.cpp -o inversadematriz.exe
+
 ./inversadematriz.exe
+
